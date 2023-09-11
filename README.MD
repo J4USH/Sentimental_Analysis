@@ -1,0 +1,1 @@
+# This is Sentimental Analysis Process Code.
